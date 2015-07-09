@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sike2012.balance/!svn/ver/733/trunk/%E6%96%B0%E5%A4%A9%E5%B9%B3%E6%B4%BE/%E4%B9%B0%E5%AE%B6/Balance_Buyer/Balance_Buyer/Common/Lib/AFNetworkKit/AFNetworking
+END
+AFHTTPSessionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/sike2012.balance/!svn/ver/733/trunk/%E6%96%B0%E5%A4%A9%E5%B9%B3%E6%B4%BE/%E4%B9%B0%E5%AE%B6/Balance_Buyer/Balance_Buyer/Common/Lib/AFNetworkKit/AFNetworking/AFHTTPSessionManager.m
+END
+AFURLResponseSerialization.m
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/sike2012.balance/!svn/ver/733/trunk/%E6%96%B0%E5%A4%A9%E5%B9%B3%E6%B4%BE/%E4%B9%B0%E5%AE%B6/Balance_Buyer/Balance_Buyer/Common/Lib/AFNetworkKit/AFNetworking/AFURLResponseSerialization.m
+END
+AFSecurityPolicy.h
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/sike2012.balance/!svn/ver/733/trunk/%E6%96%B0%E5%A4%A9%E5%B9%B3%E6%B4%BE/%E4%B9%B0%E5%AE%B6/Balance_Buyer/Balance_Buyer/Common/Lib/AFNetworkKit/AFNetworking/AFSecurityPolicy.h
+END
+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/sike2012.balance/!svn/ver/731/trunk/%E6%96%B0%E5%A4%A9%E5%B9%B3%E6%B4%BE/%E4%B9%B0%E5%AE%B6/Balance_Buyer/Balance_Buyer/Common/Lib/AFNetworkKit/AFNetworking/AFNetworking.h
+END
+AFSecurityPolicy.m
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/sike2012.balance/!svn/ver/733/trunk/%E6%96%B0%E5%A4%A9%E5%B9%B3%E6%B4%BE/%E4%B9%B0%E5%AE%B6/Balance_Buyer/Balance_Buyer/Common/Lib/AFNetworkKit/AFNetworking/AFSecurityPolicy.m
+END
+AFURLSessionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/sike2012.balance/!svn/ver/733/trunk/%E6%96%B0%E5%A4%A9%E5%B9%B3%E6%B4%BE/%E4%B9%B0%E5%AE%B6/Balance_Buyer/Balance_Buyer/Common/Lib/AFNetworkKit/AFNetworking/AFURLSessionManager.h
+END
+AFURLConnectionOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/sike2012.balance/!svn/ver/733/trunk/%E6%96%B0%E5%A4%A9%E5%B9%B3%E6%B4%BE/%E4%B9%B0%E5%AE%B6/Balance_Buyer/Balance_Buyer/Common/Lib/AFNetworkKit/AFNetworking/AFURLConnectionOperation.h
+END
+AFHTTPRequestOperationManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/sike2012.balance/!svn/ver/733/trunk/%E6%96%B0%E5%A4%A9%E5%B9%B3%E6%B4%BE/%E4%B9%B0%E5%AE%B6/Balance_Buyer/Balance_Buyer/Common/Lib/AFNetworkKit/AFNetworking/AFHTTPRequestOperationManager.h
+END
+AFNetworkReachabilityManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/sike2012.balance/!svn/ver/733/trunk/%E6%96%B0%E5%A4%A9%E5%B9%B3%E6%B4%BE/%E4%B9%B0%E5%AE%B6/Balance_Buyer/Balance_Buyer/Common/Lib/AFNetworkKit/AFNetworking/AFNetworkReachabilityManager.h
+END
+AFURLSessionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/sike2012.balance/!svn/ver/733/trunk/%E6%96%B0%E5%A4%A9%E5%B9%B3%E6%B4%BE/%E4%B9%B0%E5%AE%B6/Balance_Buyer/Balance_Buyer/Common/Lib/AFNetworkKit/AFNetworking/AFURLSessionManager.m
+END
+AFURLConnectionOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/sike2012.balance/!svn/ver/733/trunk/%E6%96%B0%E5%A4%A9%E5%B9%B3%E6%B4%BE/%E4%B9%B0%E5%AE%B6/Balance_Buyer/Balance_Buyer/Common/Lib/AFNetworkKit/AFNetworking/AFURLConnectionOperation.m
+END
+AFURLRequestSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/sike2012.balance/!svn/ver/733/trunk/%E6%96%B0%E5%A4%A9%E5%B9%B3%E6%B4%BE/%E4%B9%B0%E5%AE%B6/Balance_Buyer/Balance_Buyer/Common/Lib/AFNetworkKit/AFNetworking/AFURLRequestSerialization.h
+END
+AFHTTPRequestOperationManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/sike2012.balance/!svn/ver/733/trunk/%E6%96%B0%E5%A4%A9%E5%B9%B3%E6%B4%BE/%E4%B9%B0%E5%AE%B6/Balance_Buyer/Balance_Buyer/Common/Lib/AFNetworkKit/AFNetworking/AFHTTPRequestOperationManager.m
+END
+AFHTTPRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/sike2012.balance/!svn/ver/733/trunk/%E6%96%B0%E5%A4%A9%E5%B9%B3%E6%B4%BE/%E4%B9%B0%E5%AE%B6/Balance_Buyer/Balance_Buyer/Common/Lib/AFNetworkKit/AFNetworking/AFHTTPRequestOperation.h
+END
+AFNetworkReachabilityManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/sike2012.balance/!svn/ver/733/trunk/%E6%96%B0%E5%A4%A9%E5%B9%B3%E6%B4%BE/%E4%B9%B0%E5%AE%B6/Balance_Buyer/Balance_Buyer/Common/Lib/AFNetworkKit/AFNetworking/AFNetworkReachabilityManager.m
+END
+AFURLRequestSerialization.m
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/sike2012.balance/!svn/ver/733/trunk/%E6%96%B0%E5%A4%A9%E5%B9%B3%E6%B4%BE/%E4%B9%B0%E5%AE%B6/Balance_Buyer/Balance_Buyer/Common/Lib/AFNetworkKit/AFNetworking/AFURLRequestSerialization.m
+END
+AFHTTPSessionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/sike2012.balance/!svn/ver/733/trunk/%E6%96%B0%E5%A4%A9%E5%B9%B3%E6%B4%BE/%E4%B9%B0%E5%AE%B6/Balance_Buyer/Balance_Buyer/Common/Lib/AFNetworkKit/AFNetworking/AFHTTPSessionManager.h
+END
+AFHTTPRequestOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/sike2012.balance/!svn/ver/733/trunk/%E6%96%B0%E5%A4%A9%E5%B9%B3%E6%B4%BE/%E4%B9%B0%E5%AE%B6/Balance_Buyer/Balance_Buyer/Common/Lib/AFNetworkKit/AFNetworking/AFHTTPRequestOperation.m
+END
+AFURLResponseSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/sike2012.balance/!svn/ver/733/trunk/%E6%96%B0%E5%A4%A9%E5%B9%B3%E6%B4%BE/%E4%B9%B0%E5%AE%B6/Balance_Buyer/Balance_Buyer/Common/Lib/AFNetworkKit/AFNetworking/AFURLResponseSerialization.h
+END

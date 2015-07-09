@@ -1,0 +1,53 @@
+//
+//  Sale.pch
+//  SaleCRM
+//
+//  Created by 朱伊 on 15/2/13.
+//  Copyright (c) 2015年 朱伊. All rights reserved.
+//
+
+#ifndef SaleCRM_Sale_pch
+#define SaleCRM_Sale_pch
+
+//#import "BLLConfig.h"
+//#import "Utils.h"
+#import "UIViewExt.h"
+#import "UIButton+Extension.h"
+#import "CustomVerticalLabel.h"
+#import "CustomVerticalLabel+Extension.h"
+#import "UITextField+Extension.h"
+//#import "CustomObject.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
+
+#ifdef DEBUG
+#   define DLog(fmt, ...) NSLog((@"%s [Line %d] " fmt), __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__);
+#else
+#   define DLog(...)
+#endif
+
+#ifndef iPhone5
+#define iPhone5 ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? (CGSizeEqualToSize(CGSizeMake(640, 1136), [[UIScreen mainScreen] currentMode].size)) || (CGSizeEqualToSize(CGSizeMake(320,568), [[UIScreen mainScreen] currentMode].size)) : NO)
+#endif
+
+#ifndef iPhone4
+#define iPhone4 ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? (CGSizeEqualToSize(CGSizeMake(640, 960), [[UIScreen mainScreen] currentMode].size)) || (CGSizeEqualToSize(CGSizeMake(320,480), [[UIScreen mainScreen] currentMode].size)) : NO)
+#endif
+
+
+#define RGB(r,g,b) [UIColor colorWithRed:r/255.f green:g/255.f blue:b/255.f alpha:1.f]
+
+
+
+#define kBaseOriginX 0
+#define kBaseOriginY 0
+#define kBaseWidth [UIScreen mainScreen].bounds.size.width
+#define kBaseHeight [UIScreen mainScreen].bounds.size.height
+
+#define kOpenSelectTabBar      @"openSelectTabBar"           //开启tabbar
+#define kCloseSelectTabBar     @"closeSelectTabBar"          //关闭tabbar
+
+
