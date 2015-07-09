@@ -22,7 +22,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    
+    self.view.backgroundColor = [UIColor whiteColor];
     
 //    UIImageView *faceImg = [[UIImageView alloc] initWithFrame:CGRectMake(5, 50, 32, 32)];
 //    CALayer *lay  = faceImg.layer;//获取ImageView的层
